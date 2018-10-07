@@ -11,6 +11,7 @@ nlp = spacy.load('en', disable=['parser'])
 all_word_list = []
 sentences = []
 
+
 def analysis_season(season):
     with io.open(r'filtered_subtitles/s%s/s%s_all.txt' % (season, season), 'r', encoding='u8') as f:
         for line in f:
@@ -52,6 +53,7 @@ def analyze_wc_all():
         cnt_each = analyze_wc_season(each)
         cnt = cnt+cnt_each
     print(cnt.most_common(100))
+
 
 def analyze_ngram_season(season):
     words_list = []
