@@ -1,0 +1,624 @@
+From "Bloomberg West" in San Francisco,
+I'm Emily Chang.
+General Keith Alexander is here
+to tackle tech's role in counter-terrorism,
+but first, a quick glimpse with Richard Hendricks,
+founder and CEO
+of the hot new compression platform Pied Piper,
+and Erlich Bachman, Chief Visionary.
+Oh, Emily Chang,
+it is just splendid to be here with you,
+at historical Pier Three, with a breathtaking view
+of the Embarcadero Center
+and the flag of San Francisco.
+Now, Richard...
+Richard actually developed
+this technology in my incubator.
+I am listed-- I was originally listed
+under the white pages as "Erlich Blachman,"
+uh, with an "L," A typo that apparently couldn't be changed,
+and then Google indexed it, so I've been dealing with that.
+Richard, Pied Piper has taken off like a rocket.
+More than a hundred thousand installs
+in just ten days. Is that right?
+Yes.
+Pretty amazing.
+And you have a last-minute invite
+to the "Vanity Fair" Summit dinner tonight.
+Quite an honor for such a young company.
+Richard, maybe you can comment on this one?
+Yeah, we are the-- finally the-- the belles of the balls.
+I mean, uh, ball.
+Now, some people are calling you the next unicorn.
+Have you guys thought about that?
+You could have a billion-dollar company.
+Erlich, you could own five percent of a billion dollars.
+Uh, ten, actually.
+Richard, this is boring.
+- Shit. - No, no, no.
+He was-- he was an early investor.
+Again, it's... Erlich Bachman.
+If you Google that,
+it'll say, "Did you mean Erlich Blachman?"
+You can click on that link,
+it'll give you the correct results for Erlich Bachman.
+Should we take some calls?
+We don't do that here.
+I just know what I saw, Richard.
+No, come on. Look, she's married, she just had another baby.
+If you pushed a little harder,
+you could have scored right there on camera.
+- You should get her phone number. - Shut up.
+Oh. This is actually, uh, Jian-Yang pranking me.
+I should take it.
+Yes, of course I have frog's legs. Why do you ask?
+Are you serious? Have you honestly
+still not told him that you sold your shares?
+You can't keep lying to him like this.
+It's not technically a lie.
+My shares don't transfer to Raviga
+until the next board meeting.
+Come on, it's been ten days.
+I know, I know, but, you know, the TechCrunch thing
+came up and then there was the Reddit AMA
+and, you know, now this Bloomberg thing.
+And besides, let's be honest,
+Richard shouldn't be in the public eye
+without me along to help.
+Did you see the skeeved-out look on Emily Chang's face?
+I thought she was going to walk off set.
+Erlich, you're lying to him,
+and you made me a part of it, so now I'm lying to him, too.
+The longer you wait, the worse this is gonna get.
+- All right, fine, I'll tell him. - When?
+After the "Vanity Fair" thing tonight.
+I mean, did you see the guest list?
+Monica, throw me a bone here.
+24 hours, then I'm telling him.
+- Fine, I'll tell him. I'll tell Richard. - I'm serious.
+- Tell me what? - I'm not joking--
+it was, uh, Jian-Yang.
+He said to tell you that Phillip McCrevis left word.
+Oh, who's "Fill-up My--" Oh.
+Richard, we'd better get our asses in first fucking gear
+if we want to make it to this "Verge" Photoshoot.
+Oh, shit. That's today?
+Yes, I assumed that's why you're still
+wearing your Bloomberg makeup.
+No. No, I was just-- I kind of like the way it--
+can we just push this to next week, please?
+They don't really do that.
+Okay, well, can you go?
+Please? I just have a ton of work,
+and honestly I would be really happy
+if I never had to do any of this ever again
+and then you were just the face of the company.
+You know what I mean? Oh, shit.
+What-- what time is this "Vanity Fair" thing?
+It's tonight. I figure we're wheels up by 6:00,
+then we can check into the hotel, shit, shave and shit again.
+- Get a cocktail. - What hotel?
+Eavesdropping. Well, if you must know,
+we got a suite at the Fairmont, and they're sending a car.
+I think Richard deserves it.
+And then I figured tomorrow in the a.m.,
+we would sleep in and have a nice brunch.
+I don't have time for a brunch. I have to be back here.
+Come on, eggs benny, a little spinach tartar,
+you'll flirt with the waitress.
+- Killer. - And, uh, we'll have a nice talk.
+Talk? What about?
+You know, things, all sorts of themes.
+So tomorrow, you, me, brunch
+and, uh, one word: frittata.
+Hey, fellas, is it me or is it a bit chilly in here?
+What in God's name is that?
+What do you think it is? It's a jacket!
+Now, I only ordered one as a sample,
+but once I have your sizes, we can all have them.
+Why would we all want them? One is already too many.
+I don't mean in the house. I mean, like, in the world.
+Now Gilfoyle, I have you at about a 40 long? Am I right?
+If my mother was naked and dead in the street,
+I would not cover her body with that jacket.
+Gilf.
+Jared, now that you're here,
+we need two new tables in the game room.
+Okay. Well, maybe against the doors?
+Oh, hold on, there's more.
+"Pied Piper: Because 'awesome world-changing compression company'
+would take up too much space."
+And you guys give me shit for a tiny gold chain?
+I regret nothing. I'm going to get coffee.
+Hey, Brownie, you coming?
+I was thinking we'd hit the Philz on Middlefield.
+No, let's drive to the one on Forest Avenue.
+It's further from that jacket.
+Claude, you're on pager duty until we get back.
+Jared, can I borrow that jacket?
+I sense you're doing something ironic with it,
+but I'm okay with that because...
+however unattractive this jacket may seem to you,
+once you slip it on, everything will change.
+It'll shake out its hair and take off its glasses,
+and before you know it, you'll be in love.
+Jared, it's really fucking ugly.
+Consider the tortoise.
+As the fable teaches us,
+it may appear that he is losing in his race
+against his nemesis, the insolent and cocksure hare.
+But appearances can be deceiving.
+Gavin, the tortoise. Is it Endframe?
+Yes. But there's more.
+- The hare is Pied Piper. - Indeed it is. Someone's read their Aesop.
+We've also read the financials, Gavin.
+Between Nucleus and Endframe, you've burned through
+three-quarters of a billion dollars,
+with virtually nothing to show for it.
+Two weeks ago, on the heels of powering down
+the entire Hooli campus for seemingly no reason,
+you lost all of Endframe's senior engineers.
+I grant you, we've stumbled on offense of late,
+but the best offense is a good defense.
+We've taken a page out of Apple's playbook
+and are currently "Reviewing" The Pied Piper app for sale
+in our Hooli store at a pace one might call "Tortoise-like."
+Don't. They hate that.
+In any case, I have it on good authority
+that it may be some time before Pied Piper
+is available on Hooli OS devices.
+- We're making it available immediately. - Sorry?
+You're fighting a war that's already ended, Gavin.
+Pied Piper won.
+We called this board meeting
+to inform you that it's time for Hooli to let go
+and move on without you at the wheel.
+I'm sorry, without me? Are you firing me?
+Our intention is simply to transition you
+into a more appropriate role within the company,
+one with less oversight of day-to-day operations.
+You're putting me on the fucking roof?
+You could always choose to move on, Gavin. Up to you.
+I built this company with my bare hands in my fucking garage.
+Where were you when I was doing that?
+Gavin?
+These animals?
+Fuck.
+Well, uh, you are certainly
+more than qualified to be our new head of PR.
+Laurie thinks you're great.
+to be honest, we could use the help.
+All the media stuff has
+been pretty overwhelming, especially lately.
+If Marissa Mayer can do it, so can you.
+And, uh, you're available immediately?
+I am. I do have one question for you guys.
+Is everything here... cool?
+Is it cool? Uh, yeah.
+Yeah, I mean, I'm-- I'm cool.
+Yeah, he is cool.
+Clearly, but is there anything you guys want to tell me...
+about the company?
+What, like, uh--
+All right, look, this is weird,
+but when I was in Laurie's office yesterday,
+I saw a piece of paper on her desk.
+Well, she-- she can be a bit untidy.
+It was a sale of a big block of Pied Piper stock.
+Is someone on the inside
+- dumping shares right as you're launching? - What?
+No. No, absolutely not.
+'Cause that would be a pretty severe signaling risk.
+I mean, you don't have to be in PR to know that insiders
+only dump stock like that when they know something is wrong.
+The bulk of my compensation here would be options,
+and if those aren't going to be worth anything--
+Yeah. No. No, no, no.
+That is not happening, okay? Nothing is going on here.
+- Yeah, except excellence. - Okay.
+Well, you let me know what you want to do
+and I'll think about it.
+Okay.
+Um, well, thanks for coming.
+What the hell was that?
+Maybe it was a negotiating tactic?
+Monica.
+It's Monica.
+Well, let's not jump to conclusions.
+I mean, she's the only one who's bought a jacket.
+Jared, she's the only one who hates the platform.
+There's no other explanation for this. Okay? Monica fucked us.
+She pulled down her pants and fucked us in front of her parents.
+Did some-- Richard, did somebody do that to you?
+No. No, I don't know why--
+Oh, boy, it is chilly.
+Good thing I brought this sweet jiz-acket.
+Eh, friend? We came here together.
+I know what you're doing.
+You think you're embarrassing me,
+but that's only the secondary effect of that shitty jacket.
+The primary effect is...
+that you look like a douchebag.
+Let me put this in terms you'll understand.
+I'm like a suicide bomber of humiliation.
+I'm happy to go out as long as I take you with me.
+Your shame is my paradise.
+S'up, ladies?
+What you noshing on? Cranberry scone?
+My friend Dinesh here
+has a little crush on you. He's shy.
+I don't know him.
+Oh, he plays coy.
+I don't know why he's so shy.
+Excuse me. I noticed your jacket.
+Do you work for Pied Piper?
+- Yeah. - Dude, your app is killin' it.
+Everyone I know is installing it.
+Do you seriously? I just downloaded it last night.
+- Yeah? - Do you mind if we get a picture?
+- With me? - Yeah. Everybody get in.
+If you want it.
+- Thanks. - Thanks, bro.
+Hey, man, did you remember to put money in the meter?
+Hi, I'm Dinesh. I work at Pied Piper.
+Excuse me, do I know you?
+Gilfoyle.
+He's a fuckin' dick, but I love him, though.
+You have me confused with someone else.
+My name's clearly Jared,
+and if you would excuse us, you were interrupting.
+No, he's lying. His name is Gilfoyle.
+Show them your driver's license.
+Jared asked you nicely to step back,
+so step the fuck back. You're being a dick,
+and you're cutting in line.
+You heard him. You're being a dick.
+- Boy, some people. - What a creep.
+Sorry you had to deal with that, Jared.
+You and me both, friend.
+This is Monica.
+Is it? Because apparently everything else
+that comes out of your mouth is a lie.
+Shit.
+Look, Richard, I totally understand if you're pissed at me,
+but please know that I tried
+as hard as I could to get him to tell you.
+Oh, really? Well, that's not what he said.
+Oh, really? What exactly did he say?
+He said that he found it on a piece of paper in Laurie's office.
+What? Wait, wait, wait. Hold on.
+Who's the "he" That you're talking about?
+You know who. David.
+My brother?
+What? Who the fuck-- I don't know.
+No, David, the fucking PR guy
+who's not going to take a job with us because of what you did.
+Richard, I am totally lost. What exactly do you think I did?
+You can play dumb all you want to. It won't change the one thing
+that both you and I know is true. You dumped your stock.
+What? No. I didn't dump a single share of my Pied Piper stock.
+- I swear. - Well, then who the fuck did?
+And make sure that the money reads.
+I mean, Pied Piper is a billion-dollar company.
+It's not just a unicorn.
+All right, let's do some rearing.
+There we go. Now, let's let the horns
+sort of look like my dick. Perfect.
+- Are you fucking kidding me? - Richard.
+Can we take a soft five?
+I was going to tell you. That's what tomorrow's brunch was for.
+Brunch? You had ten fucking days and you didn't say a thing.
+Fine. You want to know why I didn't tell you?
+Because it's fucking humiliating. I'm broke, Richard.
+Did you hear me? I'm broke.
+Erlich Bachman, the name that used to be synonymous with success,
+went broke and was forced to sell.
+- I got royally fucked, Richard. - You got fucked?
+You're the one who threw a million-dollar party.
+- Yeah, but it was a great party. - No one forced you to do that.
+Admit it, you fucked yourself.
+But I'm not gonna let you fuck my company.
+I'm going to have to issue a press release
+explaining what you did and why.
+No, no, come on. This isn't out.
+- It's one PR guy. - That we know of, Erlich.
+How many other people saw that piece of paper?
+How many people has this guy talked to?
+This is Silicon Valley.
+Rumors spread like light speed here.
+How are we gonna get good people to work for us
+if they think something funky is going on with our stock?
+How are we going to scale? This is going to kill us.
+Richard, do you know what happens if this goes public?
+- I'm Ron Wayne. - Who?
+Ron Wayne.
+The guy that owned ten percent of Apple and sold it in 1976.
+No one in this town will work with me ever again.
+You want me to risk the entire future of Pied Piper,
+everything that I've worked for,
+just to protect you from your own fucking incompetence?
+Richard, there's a three to four percent chance
+that this is going to get out on its own,
+but there is 100 percent chance
+that if you issue a press release
+no one will ever take me seriously again.
+My dignity is in your hands, Richard.
+Do with it what you will.
+Gavin? Is that you?
+Jack Barker. Nice plane.
+Yours too. Where are you headed?
+I just needed to take a walk and clear my head.
+There's this great little hiking trail
+near my lodge in Jackson Hole.
+Get out of here. I'm on my way up to J Hole myself.
+Is that right? I thought you sold.
+No, I just never go there.
+So how long you going for?
+Coming back tomorrow afternoon.
+- Me, too. - Oh, come on. Come on.
+Seriously, we need to find a couple hours,
+get together, catch up.
+I could tell you some war stories.
+Well, I'd love that.
+I could tell you a few of my own.
+Well, be well.
+- You, too. - Take care, Jack.
+Yeah. See you.
+Gavin? Wait.
+What are we doing here?
+I mean, you're on your way to Jackson Hole,
+I'm going to Jackson Hole.
+You seem like you could use some company.
+- You play chess? - I do. Indeed.
+Fantastic. I tell you, when we get up to altitude
+and the Wi-Fi kicks in,
+I'm ActionJB62 on Hooli chat.
+- Find me. - I will.
+- I'm glad we bumped into each other. - Me, too.
+- Really is a small world. - It's crazy.
+Okay, well, uh, I think it reads well.
+And it's all in there.
+This will definitely set the record straight.
+Then again, you're basically lighting Erlich on fire.
+So what? He fucked the company.
+He potentially fucked the company.
+Are you kidding me? Wh-- Gilfoyle, back me up here.
+This is thorny.
+How is this even a question for you guys?
+Honestly?
+I mean, it's not like he's going to be out on the street.
+He just sold ten percent of a company
+that's valued at at least 50 million dollars
+and now suddenly we're giving him the benefit of the doubt?
+Well, it sounds mighty Christian of you, Gilfoyle.
+There's no reason for hate speech, Richard.
+I can see by the sour, pinched expressions
+on all your faces that Richard has filled you in
+regarding the unfortunate circumstances that have forced me
+to relinquish my stake in your fair company.
+Erlich, uh, you should know that I have written a press release.
+- Oh? - I'm not going to release it yet,
+but if I hear wind of these rumors
+spreading out of control,
+I'm going to send it to every tech publication
+and blog on the face of the earth. Do you understand?
+- Even UPROXX? - Yes, even them.
+Also, uh...
+this is the check
+for next month's use of the house as our office,
+but we'll be out by the end of the month.
+Richard, it doesn't have to be like this.
+From this point forward,
+you will have nothing to do with this company whatsoever.
+I'm replacing you on the board,
+and I'm giving your seat to Jared.
+- So that's it then. - Yes.
+So I guess we better get ready for that "Vanity Fair" Event.
+What?
+Did you not listen to a word I just said?
+I heard thousands of words about rumors
+and the need to contain them.
+What do you think would happen
+if I didn't show up to this "Vanity Fair" Event?
+I've already RSVP'd and given them a list
+of phony dietary restrictions just to cause a scene.
+I told them I was pesca-pescatarian.
+Which is one who eats solely fish who eat other fish.
+I think my absence would be noted.
+Erlich brings up a good point.
+It's true. Let us not forget Meinertzhagen's Havers--
+Yes, yes, Meinertzhagen's Haversack.
+We all remember his sack.
+Okay, fine. Yeah.
+Sure. You can come. I can't stop you.
+I'll be taking the car and the hotel room
+and you're going to have to drive yourself.
+Consider it my farewell dinner.
+See you at the event.
+- Jared, are you okay? -It's just so many emotions.
+The board seat. I feel regret and glee
+that you would choose to honor me,
+and terror at not living up to your expectations,
+and compassion for Erlich's loss.
+Oh, Donald, you've come undone.
+You still want him on the board?
+Hi, there. Checking in. Richard Hendricks.
+Fuck me. Hey, Richie.
+Oh, God. Hey, Russ.
+What's up, boy genius? You here fucking?
+No. No, no, no fucking.
+Just, uh, here for the "Vanity Fair" Dinner.
+Oh, yeah, I know that stupid dinner.
+Bunch of VC douchebags jerking each other off.
+Speaking of, I got this girl at the bar,
+I'm trying to take her up to the presidential suite
+before her fucking bridesmaids ruin the whole thing,
+but they're telling me it's booked.
+Who is it? Is it Gore? Fuck that guy.
+- Oh, God. - I saw Pied Piper launched.
+Haven't tried it, probably won't.
+I don't even want to think about how fucked I got
+missing out on Erlich's shares. Fuck.
+Wait, he-- he tried to sell you his shares?
+Well, half of them. He was pretty desperate to stay on the team.
+Well, he didn't mention anything about this to me.
+Of course not. Why would he?
+It's fucking humiliating losing all your money.
+You think when I dropped below a billion
+I walked around telling everybody? Fuck no.
+You guys were the only ones who knew,
+and I actually thought about having you killed.
+- I'm sorry, what? - So Erlich and I, like two weeks ago,
+we had a contract ready:
+five mil I was gonna pay him for half his shares.
+It was a win-win. Then that robot, Laurie Bream,
+sweeps in and cockblocks the whole thing.
+She forces him to sell her all his shares.
+You think she's gay?
+Maybe. It hasn't come up. I, uh-- so wait, she outbid you?
+Outbid me? No, she didn't have to.
+You don't even know how your own fucking company works?
+All right, Mr. Hendricks, we have you staying one night
+in a deluxe double.
+Okay, do you have a tub in that room?
+Does he have a tub in that room?
+I don't know. There's no way of telling.
+You know what? Fuck it.
+I'm gonna take her to the "W."
+She's so drunk she won't know the difference.
+See you around, Richie.
+Hey, it's CJ. Listen, I'm hearing a rumor
+about some serious ugliness going on at Pied Piper.
+I've heard it from three different people now.
+You need to call me.
+Fuck.
+What in God's name is the reason to get a higher education?
+You can just buy a megafreeze for 35 cents.
+Laurie, can I talk to you for a second?
+Yes, uh, Richard Hendricks,
+- do you know Mark Pincus? - Hello.
+- Big fan. - Oh, okay. Yes.
+- Sorry, just one second. - Yes. Oh, all right.
+I'm sorry to cut away like this.
+We can continue discussing this.
+Okay, uh, look,
+I know Erlich sold you all of his shares.
+I'm just, uh, wondering exactly how that happened.
+Ah, yes. It was one of my finer moments.
+Erlich came to me with an outside offer
+to sell half of his Pied Piper shares.
+To Russ Hanneman for five million dollars. Yes, I know.
+But somehow you ended up with all of his shares. How?
+Oh, well, as you know, the same onerous terms you accepted
+when you took Russ Hanneman's money,
+they transferred to me when I bought him out.
+These included the right to block any transfer of stocks
+with a majority vote of the board. A board which I control.
+- I don't understand. - Of course you do.
+If I have approval of any buyer,
+and I am the only buyer I approve,
+then I can set my own price.
+So I asked Mr. Bachman for a thorough accounting of his debts, uh,
+which ran to approximately $713,000.
+And how much did you give him?
+Jesus. So, he walked away with nothing.
+Uh, yes. And so as I said,
+you're the one who accepted these terms,
+so you're the one who enabled this action on my part.
+All credit goes to you, Richard. Excuse me.
+Dick. Dick Costolo. One moment.
+I need to speak with you.
+It's expensive to re-plant.
+No. The vines are bad. The soil is bad.
+Excuse me, what is that?
+That's pesca-pescatarian.
+- It's fish that-- - Actually, just bring me one of those.
+- Me, too. - Yeah, waiter, I'll take on, too.
+- I want one. - I want one of those also.
+Wait, hey, hey, I'd like that also.
+Excuse me, if he's having one, I want one.
+- You're getting that, I want it, too. - Excuse me!
+I thought you were at the dinner.
+I left.
+Erlich never showed. Is he here?
+Yeah. He's hiding in the backyard.
+- Why? - Have you not seen the article?
+No.
+"Is Erlich Bachman the Dumbest Man in Tech?"
+What the hell is this? I never sent anything out.
+- Who did they talk to? - Erlich.
+This is CJ's blog.
+He outed himself to protect Pied Piper.
+This is way harsher than anything you ever wrote.
+Plus, there's the visual component.
+Speaking of... where's your jacket, Jared?
+That's quite a piece.
+Informative. Thorough.
+You certainly know how to make an impact.
+And I guess I don't have to worry about any rumors coming out.
+Those are handled.
+You know, Erlich, uh, Pied Piper still needs a head of PR.
+You seem to be well-versed in media outreach.
+And by your own admission in that article,
+your head is-- what did you say?
+--so far up your own ass you can see the future.
+And that could be useful...
+if we need a pre-cog...
+in a way?
+I don't know if you're available, so...
+Are you offering me a job?
+Well, we have a good option package.
+it won't be quite what you had, but it's something.
+That's very generous.
+So things could go back to the way they were before.
+Well, no. No. Not exactly the way they were.
+No, no. Uh, well, this would be an actual job
+and you would have responsibilities.
+Would this job have a title?
+Something, say, Chief Evangelism Officer?
+So, CEO?
+- Oh, my goodness! - What the fuck was that?
+Richard.
+The Pied Piper app just got accepted to the Hooli store.
+What? Holy shit.
+Gavin Belson just presented us
+with his bare buttocks in submission.
+We beat him. I don't-- I don't hug. No.
+Um, okay, hey, look, uh,
+time to issue your first press release, right?
+It's very late, Richard, and I'm very high.
+Erlich, I don't care.
+You have to do it, okay? Now.
+- It's your job. - Okay.
+All right.
+CJ Cantwell. Erlich Bachman.
+The reason I'm calling has absolutely nothing to do
+whatsoever with the fact that I own half of your blog
+and everything to do with the fact
+that I was just named Chief Evangelism Officer of Pied Piper.
+Feel free to abbreviate that,
+whatever acronym is most economical.
+And I have a story.
+Well, if it's anything like this last one, I am all for it.
+I am getting so many paid views on your tell-all.
+Everyone in the Valley is reading it.
+Well, that's good... for you...
+at my expense, I guess.
+Anyway, I had no choice.
+As you said, it was going to come out one way or another.
+Why? No one knew about any of it until you told me.
+What do you mean?
+You said that you had heard from a bunch of people
+that there are all these rumors about ugly shit
+going down at Pied Piper.
+That's literally the only reason that I told you any of this.
+What? Oh, yeah, three different people told me
+that Pied Piper had the ugliest jackets they'd ever seen.
+Jackets?
+I was going to do, like, a whole swag fail thing, you know.
+That could have been cool, no?
+Who the fuck cares about jackets?
+Hey, come on, babe
+Follow me I'm the Pied Piper
+Follow me, I'm the Pied Piper
+And I'll show you where it's at

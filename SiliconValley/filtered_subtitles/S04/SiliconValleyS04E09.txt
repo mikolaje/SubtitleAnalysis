@@ -1,0 +1,606 @@
+Just think about it.
+On Saturday, over a quarter-million people
+are gonna stream through that building.
+A veritable who's who of nobodies.
+Richard, we've tried marketing at trade shows.
+We suck at it.
+No, I'm not talking about that.
+Let me ask you this:
+We need 120,000 phones, right?
+What is the first thing
+people do when they get in there?
+Log on to free Wi-Fi.
+But Hooli makes you download
+the Hoolicon app in order to sign in.
+So, what if we
+somehow hack our code onto the app?
+Then we will have our 120,000 phones all in one day.
+I'm sorry. You're-- you're talking about sneaking our code
+onto people's phones without them even knowing about it?
+I mean, that's malware, Richard.
+No. No, no, no. Think of it more as, um,
+forced adoption through aggressive guerrilla marketing.
+Well, as a product of forced adoption,
+I can assure you there are consequences.
+- I like it. - Well, hold on.
+Even if we get our code into that app and onto all those phones,
+people are just gonna delete the app
+as soon as the conference is over.
+People don't delete apps.
+I'm telling you. Get your phones out right now.
+Uh, Hipstamatic.
+Vine, may she rest in peace.
+- NipAlert? - McCain/Palin.
+All right, this works in theory,
+but... penetrating the Hooli servers
+to hack their shitty convention app?
+We'd need a black hat ninja for this one.
+I wonder where we can find someone like that.
+No.
+It's so great to see you, Mia.
+- How's Pakistan? - It's so great.
+I was there for a while, and as I said before,
+I have to go back there right after this
+for an extended period of time.
+Anyway, how's all this stuff going?
+You must be, like, dying of boredom.
+I am, but the terms of my plea agreement
+forbid me to touch a computer or go online, so.
+Let me run a hypothetical by you,
+just to, like, exercise your brain.
+Like, for instance, if I had to hack the Hooli app servers,
+mess with an app, and push it out over a venue's free Wi-Fi...
+how would I do it?
+It's a trick question, right?
+Because you wouldn't hack the app server.
+You'd just launch a man-in-the-middle attack with Pineapples.
+Google it. Speaking of...
+if they even catch me talking about this,
+they could send me to maximum security prison,
+but I think I found a way to get online.
+- No. - There's a computer in the library
+that's not supervised on Sundays.
+I think if I can pull library duty, I'll be able to sneak on
+and track down whoever ratted me out.
+I am going to destroy that motherfucker.
+Not if I destroy him first.
+Excuse me. What's your policy on anonymous tips?
+Fuck. Wi-Fi Pineapples. It's so obvious.
+Not to me.
+Look, we set up a bunch of these at Hoolicon.
+We position ourselves
+between everyone's devices and the real Wi-Fi.
+So, they log onto our boxes
+and our boxes log onto the real Wi-Fi?
+- Exactly. - So, we show them a fake landing page,
+and force everyone to
+download a doctored version of the Hoolicon app.
+And they'll never know the difference.
+No wonder Mia's in prison. She's brilliant.
+- I think this might actually work. - Wrong!
+It'll never work.
+You don't even know what we've been talking about.
+I don't need to, Richard.
+The truth is, we've tried and tried.
+Every time we've gotten a whiff of success,
+a giant pelican by the name of Fate
+takes a four-and-a-half- pound shit right on top of us.
+There are people who are destined for greatness
+and people who are not.
+Richard, it seems you and I... are not.
+And so, I've had enough.
+I'm ending it all tonight.
+Suicide? I have a book for you.
+No, Gilf. Last night, when I was sitting out there
+by the smoldering husk of my palapa,
+so cruelly taken away from me...
+You burned it down yourself.
+Which led me to my epiphany.
+This epiphany.
+"Greetings from Tibet. If you find yourself in Qamdo prefecture,
+do drop in. Gavin Belson."
+That was addressed to me.
+No, that was addressed to "Richard Hendricks and company."
+Company, of which I am a part.
+You're not seriously thinking of going to Tibet?
+You're broke. How the fuck are you gonna pay for that?
+That's where you come in, my great friends.
+I figured we might pass the hat?
+Just give whatever you are comfortable with.
+I'll pay for it, whatever it costs.
+Well, it seems the smallest of us has the biggest heart.
+Thank you, young Jinathon.
+- Business class? - Premium economy.
+You fly one way.
+Don't you need a VISA to go to China?
+Yes. I can call my uncle in Beijing.
+He's very corrupt.
+That sounded... ominous,
+but, gents, it's as I was saying:
+Where there's a will, there's a way...
+just not for you guys.
+- No, I will not help you on this mission. - No?
+Richard, we always said we didn't want to end up like Hooli.
+How are we like Hooli?
+We are trying to give free Internet to the entire world.
+If we have to bend a few rules here and there--
+I mean, it's all for the greater good, is it not?
+Gavin Belson started out with lofty goals too,
+but he just kept excusing immoral behavior just like this,
+until one day all that was left was a sad man
+with funny shoes--
+disgraced, friendless, and
+engorged with the blood of a youthful charlatan.
+I am never going to be...
+any of that.
+Richard, not that long ago,
+you agonized over using a stolen log-in
+to get into a bake-off with Endframe,
+a company that stole from us.
+But now you're, what, shrugging off
+large-scale cybercrimes against innocent civilians?
+It's a means to an end. It's not who I am.
+I mean, Lincoln had to suspend habeas corpus to end the war,
+- but he restored it after. - Lincoln?
+Richard, it's not that easy.
+There's always a next time and a next time and a next time.
+I cannot knowingly contribute to your moral decay.
+Well, what if you didn't do it... knowingly?
+You're always telling me how you spent your entire childhood
+pretending that everything going on around you was okay.
+- Uncle Jerry's game. - Yeah, that.
+Let's play Uncle Jerry's game.
+Do you know what you're asking?
+Okay, guys, how we looking?
+One second. Almost done.
+All 12 Pineapples tested and packed.
+Jared, you can come in now.
+All right, all of our swag is in the car,
+and I look forward to a successful promotion
+of our legitimate space-saving app.
+Yup, that's what this is.
+Whatever.
+Well, now, gentlemen, this is it. Goodbye.
+Obviously, I don't care to make a big deal out of it,
+so I think it's sufficient just to go around
+and each of you say a memory or two of times
+where I've profoundly impacted your life.
+- It doesn't have to be a profound impact. - We're leaving now.
+- What? - International flight.
+Four hours early.
+- No, international flights are three hours early. - It's a new rule.
+Gentlemen.
+Okay, let's have some fun.
+First hurdle down. We're past security.
+That made me nervous, sneaking all that shit in.
+Why? We're bringing tech to a tech convention.
+When did Pied Piper get added to the vendor list?
+C-4210.
+That looks like us.
+Oh no, that can't be.
+No. This is not what I was promised.
+- What? It's fine. - But they told me
+that we would have prominent placement
+with proximity to high-traffic corridor.
+We're in the middle of the road here.
+- So? - Yeah, who gives a fuck?
+Well, Jared does, and-- and we do as well.
+Uh, you know what? Why don't you go check out
+what the bathroom situation's like?
+Yes. Nothing would make me happier. Good.
+You know, I actually believe him.
+Okay.
+So, gentlemen,
+okay, while Jared's gone, let's get our bearings.
+All right, so, we are here.
+Now, you guys deploy the Pineapples.
+Start with high-traffic areas, so that means entrances.
+People are setting up equipment everywhere,
+so it shouldn't look that unusual,
+but be careful, don't get caught,
+- and remember why we are here. - Richard?
+Winnie.
+Hello. Hi.
+Yeah. Oh.
+I haven't seen you since--
+Since you threw yourself down a flight of stairs
+to prove how smart you were.
+That whole spaces-tab thing was...
+Kind of petty?
+Petty? No, I was gonna say
+"Illustrative of our vast differences."
+- Right. - What are you doing here?
+I'm here helping my friend launch his new company.
+"My friend." He's actually my boyfriend.
+That's his booth right there.
+He's got a big one-- I mean the booth.
+But, um, boyfriend, uh-oh.
+- Awkward. - Why?
+Nothing. It's not. It's actually... it's cool.
+Totally cool. Cool beans.
+Beans, beans, magical fruit.
+The more you eat, the more you...
+- Toot? - Toot.
+Hey, Joel? Come over and meet Richard.
+Oh, not-- not needed.
+- Not needed. - Joel, Richard.
+Oh. Stairs guy.
+Uh, that's quite a booth you got there.
+Oh, yes, thank you. We really think
+our company's message is worth getting out there.
+Yeah, us too. Us too.
+Um, we're just trying to be a bit responsible with the spending.
+Sure, but when I sold my last company,
+I realized I had the luxury to invest in something I believe in.
+Helping humanity thrive.
+That's why I decided to bring PeaceFare into the world.
+Ah, good for you.
+Okay. It was great to meet you, Richard.
+Yeah, and you too.
+- Good seeing you. - Not if I see you first.
+Not that you asked, but you handled that very poorly.
+You know, Jian-Yang,
+the silence in the car gave me some time to think
+about the fact that our differences-- Jesus!
+Sorry.
+Jian-Yang!
+- Fuck you, fat fuck. - Pineapple two is a go.
+Fucking look at him, pictures everywhere.
+Fucking bearded baby.
+Cost us millions of dollars.
+It would make me very happy
+to pour boiling metal down Keenan Feldspar's asshole.
+How would that even work?
+Flip and pour.
+He's gonna run, and then you're slowly chasing him,
+trying to not spill your vat of boiling metal.
+- You're gonna look like a fucking idiot. - Fuck you.
+- Anybody looking? - No, just go.
+What's taking you so long? Hurry up!
+What are you boys up to?
+All right? I go through my slides. Click, click, click.
+Jamiroquai plays.
+Now, I would very much like to welcome my good friend,
+Keenan Feldspar!
+Where the fuck is he?
+Son, you're supposed to be coming up from over there.
+Totally, I'm just really kind of digging the vibe
+over on this side.
+- Uh, Terry? - Yeah?
+- Kid wants to come from over here. - Okay.
+Excuse me, sir, do you have a moment?
+This morning, Pied Piper were
+a last-minute add to the vendor list,
+so I started watching them
+and noticed some suspicious behavior.
+I sent in for our tactical response team,
+and with your permission, I'd like to sweep
+the convention floor with Yagi antennas, which are--
+- Hoover. - Yes, sir.
+Four days ago, I spent $2 billion
+on a piece-of-shit VR gadget that's never gonna work.
+I had to rebuild the entire operating system
+just to get a 90-second demo that could play on a phone.
+And by the grace of God, I just may have pulled it off.
+And now you want to talk to me about Pied fucking Piper?
+Sir, I'd like to think that
+if Gavin Belson were here, we'd make sure--
+Gavin fucking Belson is not here
+'cause I fired his ass!
+Now, look, you go back to your little security room,
+you sit in the corner with a tinfoil hat on,
+and I swear, if I hear you wandered down the hallway
+to take a piss, you are out on your ass.
+You got that?
+I do, sir.
+You know what? This might be
+a good time for me to hand out some flyers.
+Richard, six Pineapples up,
+six to go.
+- Good. - Something wrong?
+Yeah, actually. Very wrong.
+PeaceFare is a game.
+- What? - Yeah, look at his website.
+Give virtual coins to virtual homeless people.
+Grow virtual corn to feed virtual starving villages.
+What the fuck, right? I mean, he's over there
+making all this noise about
+turning your mobile device into an empathy machine,
+- but it's not doing anything. - Fascinating, Richard.
+Have you heard anything about
+how Pied fucking Piper is doing?
+Yes, our code is in the app,
+the Pineapples are online,
+and we're at 3700 downloads.
+We're ahead of schedule.
+Shit. This could work.
+That's awesome.
+Yeah, exactly.
+We are doing something real.
+He is not, but she's with him,
+and I'm the petty one. Okay, well, what about the idea
+of growing real corn to feed real starving people?
+- No. - Yeah,
+his thing seems way easier.
+Yeah, you can do it on your phone in your underwear.
+Just... plant the rest of the Pineapples, please.
+- Here he comes, folks. - Oh, thanks.
+Richard Hendricks, the Monet of compressionism.
+Jared.
+Hey, which of the bathrooms is closest?
+End of the row, 78 paces to the right.
+Great.
+Do you know this is the actual laptop I used to code the app.
+Hey, let's take some without my shoes,
+yeah? Perfect.
+Okay. Oh, hey, come.
+Yeah, so please start with my toes.
+Oh, nice.
+Can you-- And these are photos of irrigation,
+captured in the rain.
+Yeah, it's gonna look great.
+Yeah, like that.
+Poverty and penthos.
+That looks so good.
+Let's do another one. Go on the other side. Yeah.
+- Did you do this? - What? What?
+Did anyone see someone touch this laptop?
+- What? - Oh God.
+This is very disturbing.
+Fuck it. I'm just gonna punch him.
+Yeah, right. Have fun in jail, you moron.
+- Oh shit. - Oh fuck, it's him.
+- What do we do? - Uh, keep moving.
+Fuck, do you think he saw us?
+Oh, he saw us.
+- Fuck. - He saw us see him.
+Shit. Wait.
+What if he thinks we did it on purpose,
+like, we snubbed him?
+Fuck yeah.
+We just snubbed the fuck out of Keenan Feldspar.
+Hey, Richard.
+I'm letting everyone know.
+You might want to reset your critical passwords,
+because we've been hacked.
+Why-- why would you say that?
+Someone changed my PeaceFare screensaver...
+and I know it wasn't anyone on my team,
+because they all respect me too much.
+What did they change it to?
+If you don't mind me asking, just 'cause--
+No, no, I won't dignify it by repeating it.
+I'm just saying you should take precautions.
+Also, Winnie spoke to security,
+and they're sending the tactical response team.
+The what?
+The-- Oh, here they are.
+Oh shit.
+Bingo. We've got hostiles.
+Red team, Sebastian,
+fan out and sweep the entire venue.
+Hey, Richard. Guess who has four thumbs
+- and just snubbed Keenan Feldspar. - Us.
+Guys, someone called security,
+now they're doing a sweep of the area.
+- What? - Okay? You've gotta go pull all the Pineapples.
+- What the fuck? - Who ratted us out?
+I don't know. Probably we'll never know.
+It's impossible to tell.
+Just go. Go get-- get them now.
+Go. Just go. Please.
+- Bingo. - Fuck!
+Come on.
+Bingo.
+Oh crap. We've got to split up.
+I'll take the food court. You take the east concourse.
+- I want the food court. - Just go!
+Fuck.
+- Hey, man. - F-f-f-fucking Keenan.
+Hey, I have to go.
+Totally. Hey, did you snub me earlier?
+- No. - Yeah, you did.
+You know you did.
+You made me feel bad.
+I like to feel good. Why would you do that to me?
+Seriously?
+You fucked us, Keenan.
+Richard was gonna take that deal,
+and then you pulled it right out from under us.
+You cost me, personally, a shit-ton of money.
+Is that what Richard told you?
+So?
+They got every single one, every single last one.
+- Fuck! - I don't want to hear this.
+But we gotta be close, right?
+Like, how many more phones do we need?
+I don't know. Close isn't good enough.
+No, this is binary. Either we have enough or we don't.
+- Oh f-f-f-fuck. - Okay, I have an idea.
+So, I've got one Pineapple left.
+Now, I've rigged some batteries on top of it,
+because we're gonna have to go mobile.
+We have to try. Okay, I'm going to put this in your backpack.
+- Oh no. - No, it's fine.
+- I don't want it. I don't want it. - Dinesh, it's fine.
+And you, you're gonna hold this kill switch,
+and then you're gonna walk
+into the most densely populated area you can find.
+All right? If you see the security coming,
+remember, you press that button and,
+poof, you're gone.
+Okay. I'll get as many of those motherfuckers as I can.
+We'll be rewarded in the end.
+When the fuck were you gonna tell us?
+Tell you what?
+You know what, fat sack of shit.
+Richard, do you know what?
+No, I don't.
+I-I-- I don't know what.
+Dinesh, you need to move.
+Well, not until I find out if you know what.
+- Go on. - Okay, fine.
+I messed with Joel's screensaver,
+and then he told security,
+and now they're the ones pulling up all the Pineapples.
+What the fuck are you talking about?
+What are you talking about?
+You acted like you wanted to take Keenan Feldspar's offer.
+Well, I just ran into him. He said you turned him down.
+Well, n-- Okay, well...
+Who are you going to believe, me or him?
+Him. He showed me the e-mail you sent him.
+Showed you the e-mail?
+You fucking snake.
+Dinesh, you need to move, now. Look, he pulled the deal.
+Yeah, but you didn't know
+that when you sent him the e-mail, did you?
+Dinesh, you need to move. I mean, come on.
+- You need to go. Go. Go. - Gentlemen.
+I'm going to have to see the contents of that backpack.
+Bingo.
+What did you change it to, Richard?
+What?
+Joel's screensaver.
+It doesn't matter now.
+No?
+PoopFare.
+I'm sorry. PoopFare?
+Yeah, it was, like, a play on the name.
+Is it a play on the name? PissFare would be way better.
+Or PenisFare.
+Or PeaceFart. That's just changing one letter.
+Look, he-- he turned around. I had, like, a second, okay?
+It's the best I could come up with.
+PoopFare?
+PoopFare?
+- Are you serious? - Yeah.
+You sacrificed...
+everything that we've worked for...
+for PoopFare?
+How was PoopFare...
+for the greater good?
+It wasn't.
+You compared yourself to Abraham Lincoln, Richard.
+Can you do me a favor?
+Can you say it so I know I'm not hallucinating?
+- I just did. - Just...
+say it.
+- Jared. - Richard, look me in the eyes!
+Look me in the eyes, and you name...
+- our undoing! - Hey, come on. Calm down now.
+PoopFare! You reckless child.
+Gentlemen. Come with me, please.
+Sit down.
+Well, well, well.
+Richard Hendricks.
+Sorry, do I know you?
+No... but I know all about you.
+These Wi-Fi Pineapples... are they yours?
+And this image from the security footage?
+Smell anything?
+These two individuals look familiar to you?
+Last question.
+Do you recognize this?
+It's an interview I just found from Code/Rag
+from October of this year,
+in which you said you and Gavin Belson would, quote,
+"Put Jack Barker out of a job."
+Did you say that, Richard?
+You know what? Yes. Yeah.
+Yeah, this is me.
+Because apparently everything I say or type
+gets me into trouble, because I'm a... idiot.
+Well now.
+Tenley!
+What the hell are these gentlemen doing in my office?
+We caught them with Pineapples.
+You mean the Pineapples
+that I hired them to bring to the conference
+as part of a covert penetration test of our Wi-Fi security?
+- Sorry, we didn't know. - You weren't supposed to.
+Now, give these gentlemen their passes and equipment back
+and get them back on the floor.
+You know, you said some very nice things
+about Gavin Belson in that interview.
+You could've very easily kicked a good man when he was down.
+Good luck with whatever it is you're doing.
+I'd walk you down myself,
+but for reasons I really can't get into...
+I'm not allowed to leave this room.
+Okay.
+There you are. You never came back to the booth.
+You didn't want to see how it all turned out?
+I wasn't really in the mood.
+Are you playing PeaceFare?
+Yeah. I just gave an orphan
+her first calculator.
+Good. Good.
+But I've got something much better.
+See that number?
+That is the number of installs
+that we've got from Hoolicon alone.
+We have moved all of Melcher's data
+onto a network of mobile devices.
+We did it.
+Do Dinesh and Gilfoyle know?
+Yeah. Yeah. Yeah, they know.
+Now that this worked, they like me again.
+They're off getting churros to celebrate.
+I told them that we would meet them at Barker's keynote, so...
+come on.
+I mean...
+Richard, the fact that you think that
+success justifies all your behavior--
+We were in crisis mode, okay?
+And yeah, I lost my head,
+but crisis averted,
+so it's time to reinstate habeas corpus, huh?
+Be Honest Abe again.
+What about the next crisis, Richard?
+Jared, this won't happen again.
+I swear.
+So, let's just enjoy it...
+for a minute.
+Please.
+Come on, give it up!
+I love this company!
+And how about you?
+And how about Jamiroquai?
+Ladies and gentlemen, oh, let's have it.
+But wait a minute. Wait a minute. Wait a minute.
+Wasn't the original title
+of their chart-topping hit "Virtual Insanity"?
+Why is he singing "Virtual Reality"?
+You know, I may need a little help
+getting to the bottom of this
+from my very good friend, Keenan Feldspar!
+There he is!
+You guys ready to see the future?
+You know, at the beginning of the presentation,
+I told all of you to update your HooliPhone OS, right?
+Now, I want you to go into "Settings,"
+and you're gonna find a brand-new toggle
+labeled "HooliVR."
+You're gonna want to turn that on.
+Now, look under your seats.
+When you power up your HooliVR goggles,
+they will "Automagically" pair with your phone.
+Put 'em on
+and prepare to be amazed!
+Say hi to that barmaid for me.
+Oh shit! Fuck!
+What's going on?
+Turn up the lights, please. Something's happening here.
+Uh, stay calm.
+You don't think this had anything to do with us, do you?
+We appear to have a bit of a technical problem.
+I'm going to get to the bottom of this right away.
+Fuck!
+Gelong-la, there is a loud man here to see you.
+He says you sent for him.
+Qamdo in the house!
+Haircut?
+Are you fucking kidding me?
+No.
+I'm really here.

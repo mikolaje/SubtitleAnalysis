@@ -1,0 +1,673 @@
+Is that our P2P protocol?
+- Yeah, I'm just hacking for fun. - Videochat?
+Yes! I can... see you now.
+It's me. Pakistani Denzel.
+From the ashes will rise the phoenix
+that shall be known as "Bachmanity."
+That's what you're gonna call your company?
+Coleman Blair partners would like to offer Pied Piper
+six million dollars.
+We'll just need your John Hancock.
+- I can't. - Why the fuck not?!
+Because the numbers are fake!
+We bought fake users from a Bangladeshi click farm.
+Laurie wants out.
+Even a whiff of fraud is a mortal sin for VCs.
+Pied Piper and all of its assets are now officially
+the property of Bachmanity LLC.
+- Did you just say "Bachmanity?" - They had the highest bid?
+Bachmanity it is then.
+Richard, you pulled us out of a nosedive.
+Of course, inevitably we will plummet towards the earth,
+but in the meantime we are flying high.
+No, I'll get my car tomorrow. I had too many.
+Got an Uber coming. Thank you.
+That was fast.
+Hello. For Jim?
+Yep.
+Oh, would you-- would you care for a water?
+Why are your fingers orange?
+It's-- It's iodine.
+I've been... biting my nails,
+so I put this on there to stop me from doing it.
+Looks like Cheetos, tastes like asshole.
+So, what do you do?
+Venture capital over at Wood Opal.
+Good.
+Uh, can I take this?
+- Sure. - All right.
+My goodness, this video chat app
+is light-years ahead of anything else out there on the market.
+I agree.
+Yes, and you can add multiple concurrent users
+with no loss in picture quality, even on conventional 3G.
+Let's see what happens when we add more friends.
+Hi, friend. What's up?
+Hello, friend.
+Hey, should we add another friend?
+Yeah, we should.
+How many friends can we conference at the same time?
+Well, thanks to the amazing new TURN server,
+as many as you like.
+What if someone is in an area with poor cellular reception?
+I doubt it would even work.
+And if it did, the lag, the video quality...
+...that would be horrible.
+Well, let's find out.
+Could you keep your eyes on the road, please?
+Yeah, got it. I'm on it.
+Hey, friends.
+Look at that. The image is so clear.
+We all look amazing, don't we?
+- Yeah, we really do. - Yes.
+Is that really just on a cell signal?
+Uh, yes. This is the amazing new company PiperChat.
+Wait a minute.
+I saw you at TechCrunch.
+You're Richard Hendricks.
+The very same. Yeah.
+You're the fucking guy
+that tried to walk into Coleman Blair with fraudulent numbers.
+No!
+- That was actually my fault. - Yes, but no.
+I mean, that... that's the old thing.
+This is the new thing,
+and I can assure you, it's very, very real.
+You're not even my driver.
+This says Sandeep in an Escalade.
+- Ah, shit. - Look, look.
+No one will even talk to us, which is crazy.
+We just surpassed 120,000 daily active users
+and we're growing at a rate of 18 percent,
+organically, week over week.
+Richard, that's Facebook-level growth.
+- Pull over now. - That is great!
+Richard, Richard, do not pull over.
+- You will never see him again if he gets out. - I am not involved!
+Richard, can you hear me?
+Okay, for real, Richard. You have to pull over.
+Richard, do not... do not pull over.
+- You'll never see him again. - Hey, are you on the shitter?
+Pull the fuck over.
+- Richard! - Okay.
+What the fuck? Are you seriously trying to kidnap me right now?
+No. It's the locks.
+I don't know. It's not my car.
+Child locks are on.
+I was babysitting my friend Gloria's great-granddaughter.
+It's on the left.
+- Got it. Look, look, look. - God damn it!
+Come on. Listen to me.
+We are desperate. We need funding.
+- You need funding? - Yes.
+Hit a million daily active users
+while sustaining the same kind of growth,
+then everybody in town will be trying to kidnap you.
+Problem solved.
+Yeah, easy for you to say.
+Can you imagine how much these servers are costing me
+just to keep this ship afloat?
+Right, and every new user increases our server cost.
+Really? I'm sorry.
+Is it hard to become a billionaire?
+Welcome to the Valley, assholes.
+- Fuck. - What a dick.
+Well, assuming we don't get arrested,
+looks like we have to work our asses off
+to reduce our hosting bill.
+If you actually get to a million users...
+call me. My cell's on the back.
+Oh, okay.
+Did you finish?
+Yeah, I just pushed my code.
+Took me two fucking days,
+but I broke up our entire code base into parallel services.
+You know, this whole job would've been a lot easier
+if you hadn't designed sloppy services in the first place.
+Oh, silly me.
+I guess when I hacked together
+the video chat as an in-house tool,
+I didn't foresee that hundreds of thousands of people
+would shit themselves over how fucking awesome it was.
+I'll never underestimate my talents again.
+Don't worry. I'll continue to do it for you.
+Less talk, more work, boys.
+I'm not paying you to coffee klatsch
+like a bunch of fucking yentas.
+You're not paying us at all.
+I'm not paying you because you're not the one
+getting fucked face-first by your credit card company
+because of massive AWS hosting fees.
+Well, you should bear 100 percent of the company's cost,
+seeing as you do own 100 percent of the company.
+What's taking you so long to give us our fucking shares?
+Recapping a company is complex.
+But I assure you, Big Head and I are on the case.
+You better be. We're not gonna work for free forever.
+Hey, the Karachi Kid and I finished.
+Did you push your code?
+Actually, no.
+Well, Your Highness, could you please push your code?
+Well, I couldn't push that code,
+because I didn't write that code.
+What? We stayed up for two fucking days.
+Why didn't you write your code?
+Well, because I was working on something much better.
+So, I started to optimize our code
+to handle higher tr...
+You're supposed to follow me.
+I, uh, I started to optimize our code
+to handle higher traffic.
+Then it occurred to me,
+why rewrite our old code
+when I can build a new encoder
+that doesn't strip away a ton of channels and metadata.
+So, I extended my compression algorithm
+to support-- get this-- 12-bit color.
+Okay, so our users will be able to experience
+a 10 percent increase in image quality
+with absolutely no increase in server load whatsoever.
+Just-Just-Just-- Just watch this.
+Before.
+After.
+Before.
+After.
+Richard, I'm trying very hard
+not to completely lose my shit right now.
+I get it. I get it.
+After every VC in town turned us down,
+we decided that the best way to stay alive
+until we got to a million users was to cut server usage.
+Remember that?
+The whole reason that Gilfoyle and I
+stayed up for 48 fucking straight hours
+was to decrease server load,
+not keep it the same.
+Technically, the reason why we stayed up for two days
+was to maximize our ability to get a million users,
+and I just did that.
+Because who doesn't want 10 percent better image quality?
+Who doesn't want it? Everyone.
+Everyone doesn't want it!
+We already have the best video chat.
+People are using this on their cellphones.
+They're not gonna be able to tell the fucking difference.
+Guys, this is a better product,
+and I'm the CEO,
+and I'm gonna say this is where we go.
+You fucking prick.
+Guys... please be civil.
+You hate the video chat.
+I don't hate the video chat, Dinesh.
+You've always hated the video chat,
+because it's my thing,
+and you wanna rewrite it to make it all about you.
+You're fucking jealous.
+Jealous? Jealous?
+You built the video chat,
+I'll give you that. Okay.
+You did, but you did it using my algorithm.
+Right, like when Picasso painted a masterpiece,
+the guy who made the brushes and the paint
+deserved all the credit, right?
+So you're Picasso now?
+I think I need to... leave,
+but I love you guys.
+Dinesh, I'm sorry,
+but I think we should be doing a little bit more
+with this revolutionary compression algorithm
+than passable video chat.
+But we already did more, Richard.
+It was called "The platform."
+And it was exactly what you wanted to make,
+and it fucking failed, okay?
+I'm sorry, but it's bad enough
+that we can't get any funding because of you.
+You're killing us out there.
+Don't also sabotage us in here, too.
+Pied Piper is a video chat company.
+Get your head around that.
+I'm quite certain I've never said this before.
+I agree with Dinesh.
+Well.
+Well, that was just a whole heap of fun.
+Ordinarily, I loathe coming to China,
+but when you close a deal like that,
+it makes the whole trip a delight.
+Champagne, gentlemen?
+I think that's very much in order.
+I know you don't toot your own horn,
+so I'll do it for you.
+Here to you, Jack,
+and to your Hooli/Endframe box
+becoming the most successful American data storage appliance
+to ever be manufactured in China.
+Toot-toot.
+Watch your back, Jeff Bezos, here comes Hooli.
+All right, gentlemen... our flight today
+from Shanghai to Moffett Field in Mountain View
+will be just over 11 hours, so if you'll just--
+Oh, actually, I was headed up to Jackson Hole,
+see the wife and kids.
+I-- I was gonna charter up tomorrow,
+but maybe you could ask the boys
+just to drop me off on the way?
+Save me the trouble?
+Of course.
+Well, and I mean, it's really not a big deal,
+but since we are headed east, I think Jackson is further.
+Maybe we'll head to Moffett first,
+then have the guys hop you onto Jackson, okay?
+Well-- Well, actually, on flights like this,
+the boys like to go over the Pole,
+so that, technically, is a little more north to south,
+and Jackson is quite a bit further north.
+So I think, maybe, just go to Jackson first,
+then head on off to Moffett. That sound good?
+- Of course. - Great.
+I'm gonna get a pillow.
+You know what we desperately need is a palapa.
+A ploppa?
+A palapa.
+It's a Mexican structure with palm fronds.
+It's essentially a gazebo,
+but spicier and with a south- of-the-border kind of vibe.
+I think it would make us feel less exposed.
+And generally, I think it would be good for morale.
+Speaking of which, morale has not exactly been skyrocketing.
+So, we need to get this cap table done tout de suite.
+Richard and the fellows
+are entitled to 40 percent of the company.
+Now, if we each give 20 percent,
+we would still own 30 percent each.
+That seems fair.
+Seems totally fair to me.
+Dad?
+Nope. Not gonna happen.
+Mr. Bighetti, with all due respect, I--
+If you had any respect,
+you wouldn't have talked my son into wasting his money...
+again.
+My son's not giving up one share.
+Not now, not ever.
+Mr. Bighetti, if you're going to
+control your son's board seat,
+these decisions have to be unanimous.
+- You're going to kill this comp-- - i don't care.
+In my eyes, the company is already dead.
+Killed by you.
+That's my edge.
+If all I accomplish by doing this
+is making you as miserable as you've made me
+watching you fleece my son,
+then I'm okay with that.
+He seems okay with that.
+So you expect me to give the 40 percent
+to the gents from my 50 percent,
+effectively leaving me with 10 percent?
+Yes.
+No. No, no, no.
+Then I would've invested 500 thou-- a half of a million dollars
+just to end up where I started?
+Unacceptable.
+I can accept that.
+I'm going to bed.
+Good night, Brown Bear.
+Love you, Papa Bear.
+Goddamn motherfucker.
+I mean, the guys are right. I'm fucking up the company.
+I'm not helping in any way.
+You're certainly not helping your cuticles by biting on them.
+Your nail beds are gonna get infected.
+Where'd you learn how to do this, anyway?
+When I was on the street, it was a means of survival.
+I don't know, it's just that...
+I mean, I almost killed us,
+the company, and that is so selfish.
+I mean, if we have to get a million users,
+I need to get us funding, right now.
+How? We've already been turned down
+by every respectable VC in town.
+Who said anything about... respectable?
+Oh, Richard, no.
+Fuck yes, I want to talk business. What's the play?
+Let's fuck this thing right in the pussy.
+Thanks for meeting me here.
+My fucking nanny got another DUI and lost her license,
+and I'm stuck picking up my own kid like an asshole. So what's up?
+Well, I know you wanted to buy Erlich's Pied Piper shares
+back in the previous iteration, the platform.
+Well, I was hoping you would want to come on
+as a follow-on investor for the current platform.
+The video chat?
+Yeah. It's got a great tech. We're growing like crazy.
+In fact, that's why we need funding,
+to keep up with the users,
+and I think it could be
+really good if we could just keep it going.
+No, you don't.
+What?
+You don't like it.
+You don't believe in this product you're selling.
+Russ, no, that's-- It's a good, sound business.
+As I said, the tech is great
+and all the guys are really behind it.
+But you're not behind it, Richard.
+I can tell, and as much as you want to be, you're not.
+It's like this.
+You're trying to date a woman,
+but deep down in your heart you know you're gay.
+Deep in your soul, you know you would rather be plowing a dude!
+I don't-- I do-- Okay, what dude?
+It could be any dude, as long as you really want to fuck him.
+It could be a-- a twink, a bear,
+an otter, a circuit queen, a chub, a pup, a gipster,
+a daddy chaser, a leather man, a ladyboy, a Donald Duck.
+Donald Duck's a gay guy who's been kicked out of the Navy.
+H-How do you know so many gay things?
+My grandfather just came out of the closet.
+Beautiful. Very inspiring.
+But the point is, if you're gonna spend all day fucking,
+shouldn't Pied Piper be a dude you wanna fuck?
+All right. Let's do an exercise.
+You've got unlimited time and resources,
+you can build anything in the world
+you want with your compression,
+anything at all, what's it gonna be?
+Three, two, one, go. Go, go, go.
+- You said I have unlimited time? - Now. Now, now!
+A new Internet.
+What? Why?
+Okay. Well, I haven't really thought this through, so...
+Okay.
+- I own a telescope... - Of course you do.
+...and I brought it out one night to look at the full moon.
+- Of course you did. - And I got to thinking...
+"Wow, we put a man on the moon
+using the computing power of a handheld calculator."
+And then I thought, "Okay...
+"There's literally millions of times
+"more computing power in my phone
+and that's just sitting in my pocket doing nothing." Right?
+So then I thought, there's, what, billions of phones
+all around the world with the same computing power
+just sitting in people's pockets.
+So then I thought, "What if we use all those phones
+to build a massive network?"
+And here's the kicker: We use my compression algorithm
+to make everything small and efficient
+to move things around, and...
+if we could do it...
+we could build a completely decentralized version
+of our current Internet, with no firewalls,
+no tolls, no government regulation, no spying.
+Information...
+would be totally free in every sense of the word.
+You wanna build a new Internet?
+- Yeah, it's-- - Richard, I like it.
+That I would fund.
+Well, I-I-- I don't know if it's possible, and--
+Look, if this new Internet is the man of your dreams
+and this is the man that you wanna fuck,
+then you need to fuck him.
+That man I will pay you to fuck.
+Where the fuck is that kid?
+Wait a minute.
+Aw, shit.
+They kicked us out of this place.
+I'm at the wrong fucking school.
+Richard, you find that man, fuck him good.
+Careful please. He's gonna peel out.
+Monica, I need to--
+You're not...
+Monica? No. Thank God.
+I'm Ed Chen.
+Laurie put me in the good office
+and moved Monica down the hall.
+Way down the hall.
+Okay. Sorry.
+You're gonna listen to Russ Hanneman?
+Richard, you sound like a crazy person.
+I know, but-- but Russ is right.
+I mean, I hate the video chat. I really do.
+What?
+You can see right into the--
+Yeah, I'm very aware.
+Laurie is punishing me for taking your side
+and going against her, so she moved me down here
+and gave my office to that little
+brownnosing shit, Ed Chen.
+Anyway, Richard, you're not gonna seriously go home
+and tell the guys in your company
+that even though your user rates are skyrocketing
+that you wanna pivot.
+For the past 48 hours,
+I've been trying to rewrite the core video chat code,
+and I literally can't.
+Instead of typing, I just bite my fingernails.
+I think, subconsciously,
+I would rather bite my own fingers off
+than work on this platform.
+Richard, I know people who have spent
+their entire careers chasing after an app
+with this kind of growth rate and never hit it.
+It's a really good product.
+That may be, but it's not for me.
+And look, I know these guys are my friends,
+but they're also my employees, and it's my company.
+So... if I say we have to pivot, we pivot.
+Okay. I-I-- I have to go.
+All right. Well, if you're sure,
+then tell them and then call me and tell--
+What? No, I-- I have to go.
+There's another men's room on the fourth floor.
+Right. 'Cause then you would've seen mine twice.
+I mean, we're all thinking it, right?
+Richard is fucking with a product that is working.
+He should not be the CEO of this company.
+I understand your concerns,
+but is this the time that we fire Richard?
+Is this the moment that I become the CEO?
+You? Why you?
+It's a simple process of elimination.
+Gilfoyle, as an anarchist
+would never accept a position of authority
+- in any official organization. - None.
+And you, of course, are out of the picture,
+because Gilfoyle would never allow it.
+Yeah, that's true.
+And Jared, he'd sooner commit hara-kiri than...
+replace little baby Richard.
+So that leaves me.
+And honestly, gents, who would you rather have
+defending your four percent stake in the company...
+- Five. - What?
+- Five percent. - You said four. Was it...
+You said three, and then you had...
+- No, it's five. - Five.
+You know what? I'm gonna back channel,
+look at some notes, and we'll get to it.
+In the meantime, if and when...
+we are to depose Richard, I am his obvious heir.
+Erlich, no offense,
+but the board is you, Richard, and my dad, right?
+So, I think that means you and my dad
+would have to agree on who replaces Richard,
+and pretty sure my dad would, like, never approve you.
+- It's just not gonna happen. - Thank you.
+- Yeah. - There is someone else.
+Someone who has zero strikes against him.
+Someone who has held high-level positions
+at one of the biggest tech companies in the Valley.
+Someone who's been on the cover
+of one of the most prestigious tech publications in the world.
+He sounds awesome.
+Could we get him?
+And as of now, we've got the votes...
+of enough key Malaysian ministers
+to proceed with construction,
+but that support is time-critical.
+Carol's right.
+We'd have to break ground before monsoon season
+or else the entire project could collapse.
+So, what do you think?
+Sorry. About what?
+About the factory.
+The factory.
+The factory...
+Excuse me for a moment.
+- So, what have you got? - Well, sir, I did as you asked.
+I flew the company plane to Shanghai,
+then Moffett, then Jackson Hole.
+Then I flew back to Shanghai, then to Jackson Hole,
+then to Moffett, which is where I just landed.
+- And? - Moffett is 28.3 minutes closer.
+I fucking knew it!
+Barker should've dropped you off first, sir.
+Wait. What about headwinds or storm activity?
+I don't want to give him any room to wriggle out of this.
+Here's what I'm gonna need you to do.
+Fly each leg five more times and average them.
+It's the only way to be sure.
+And we're not concerned with the expense
+of 20 more private transcontinental flights?
+Of course we are.
+Jack Barker is costing the shareholders of this company a fortune,
+and he must be stopped.
+I'll go back to Moffett right now.
+Good. Call me each time you're in Shanghai.
+- I'll see you in a week. - Yes, sir.
+Guys?
+Shit, he came in the back.
+Richard, we need to talk.
+Well, actually, let me just say something first here.
+I don't think Pied Piper should be a video chat company.
+The balls on you.
+Richard, we've all decided you are out.
+Big Head is in.
+Not my call.
+Richard, we just can't keep fucking pivoting.
+- We won't do it again. - Just wait for a second, okay?
+Just-- You're not getting it. Please.
+Uh, I'm quitting.
+Wait. What?
+Richard, I was waiting out front!
+They want to ambush you and replace you with Big Head,
+but I had nothing to do with it.
+Again, not my call.
+I was ready to fight you guys,
+but then, on the way home, it occurred to me
+there might be a better way.
+I'm going to start my own company.
+I will give up all of my equity in the video chat
+if I get to completely own my algorithm.
+I will grant you guys a perpetual license
+to use the algorithm in your video chat,
+but I need the algorithm to build something else.
+And look, forget a million users,
+with me out of the company,
+you guys would be able to raise money, no problem.
+And that way, everybody wins.
+So we can use the algorithm,
+free and clear, for video chat?
+- Yes. - I mean, we-- we shouldn't even be talking about this.
+And you would leave behind your 25 percent,
+thus giving me enough equity to compensate the boys fairly
+and Big Head's father would retain his 50 percent?
+I think that's right. Yes.
+And I would own 10 percent of your new company.
+Wait. What? Why?
+The algorithm was developed here in the Incubator.
+Richard, shame on you.
+Well, dealbreaker. Let's-- Should we get some food?
+No, no. That's okay. It's fine.
+And I'm here for advice,
+or advice for the new CEO, whoever that may be.
+To wit, uh...
+I know it's probably not my place to give this suggestion,
+but I think it should be Dinesh.
+- What? - What?
+- What? - What?
+- Yeah. Sorry, Big Head. - What?
+Yeah. Dinesh, you were the one that hacked together
+the video chat in the first place.
+You know the product inside and out.
+You are the horse that I would bet on.
+You really think so?
+I do.
+I'm down. Gilfoyle?
+Gilfoyle,
+can I please be CEO of Pied Piper?
+Spoken like a true leader.
+But since your failure as a leader is a virtual certainty,
+tolerating your short reign as CEO
+in exchange for a front-row seat to the disaster seems fair.
+Plus, if I'm wrong, which I'm not...
+I get rich. So I'm down with it, Dinesh.
+Jared, what do you think about this?
+I think this is crazy.
+I left my job at Hooli to-- to come work with you, Richard.
+And-- and now you're leaving?
+Look, these guys, they're gonna need you,
+so if you want to support me, you support them.
+Think you can do that?
+I've always been very adept
+at taking the shape of whatever shoe was pressed down upon me,
+so I can try to make it work.
+Then it's settled.
+Dinesh is the new CEO of Pied Piper.
+Actually, just one last thing.
+I think you guys should call yourselves PiperChat.
+I'm gonna have to insist that I keep the name Pied Piper,
+and I won't budge on that.
+- Yeah, it's totally fine. - Okay, yeah.
+- That's fine. - Who gives a shit? Terrible fucking name.
+Let's get to work.
+Congratulations.
+So, wait. I don't have to be CEO, right?
+Dinesh is going to do that?
+All right. Let's figure out how this gets split up.
+Jared...
+Go.
+Go on, man.
+Get out of here.
+Dinesh, you'll get five percent.
+Gilfoyle, five percent.
+- Jared, five percent. - Yeah. Okay,
+so we all get five, not four.
+Now you said-- you said four?
+No, five. I said five.
+Jared, can we get five more engineers?
+That's-- That would come out of Jared's percentage.
+No.
+You wanted to see me, Skipper?
+I did indeed.
+Jack, I appreciate everything you've done
+in your position as head of the Hooli/Endframe box,
+but I think the company's needs are better suited
+if I move you elsewhere.
+Really?
+Well, I appreciate the vote of confidence, GB.
+I'm flattered.
+Frankly, little bit surprised.
+Why would you be surprised?
+Can you think of any reason why you don't deserve a promotion?
+I mean, anything at all?
+I don't want to hurt my arm patting myself on the back,
+but... right off the top of my head...
+No, I guess not.
+I mean, you've always been straight with me, right?
+Straight to the point.
+I sure have.
+And you've always gone out of your way for me, yes?
+Always put me first? Gone the extra mile?
+Gosh... I sure tried.
+Did you?
+All right, Jack.
+Professor. Gary in HR will set you up.
+Enjoy your new offices.
+Thank you, sir.
+Would you like to see your desk?
+Okay.
+Here it is.
+This is your desk.
