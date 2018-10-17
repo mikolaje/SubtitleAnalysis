@@ -3,5 +3,5 @@
 ## Catalogue
 
 - [ **Friends**](Friends/data_display.ipynb)
-- [ **Silicon Vally**](Silicon/data_display.ipynb)
+- [ **SiliconVally**](SiliconValley/data_display.ipynb)
 
