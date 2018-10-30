@@ -5,7 +5,7 @@ import glob
 
 
 def extract(season, episode):
-    with open('subtitles/S%s/Silicon.Valley.S%sE%s.srt' % (season, season, episode), 'r', encoding='u8') as rf , \
+    with open('subtitles/S%s/Silicon.Valley.S%sE%s.srt' % (season, season, episode), 'r', encoding='u8') as rf, \
         open('filtered_subtitles/S%s/SiliconValleyS%sE%s.txt' % (season, season, episode), 'w', encoding='u8') as wf:
         for line in rf:
             line = line.strip()

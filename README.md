@@ -8,6 +8,7 @@ you can click the link below in Catalogue to select the data analysis display of
 
 - [ **Friends**](Friends/data_display.ipynb)
 - [ **SiliconVally**](SiliconValley/data_display.ipynb)
+- [ **DesperateHousewives**](DesperateHousewives/data_display.ipynb)
 
 ## Support
 
